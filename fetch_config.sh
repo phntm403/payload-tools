@@ -5,7 +5,7 @@
 
 set -e
 
-CONF_URL="https://rentry.co/462us2bh"
+CONF_URL="https://xxx.xxx"
 TARGET="${1:-./build}"
 LOG="./sync.log"
 
